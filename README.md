@@ -4,7 +4,8 @@ This project implements the classic "Rooster Chase" game using an 8×8 chessboar
 
 ### Features:
 - A grid-based representation of the game using a chessboard.
-- Farmer and rooster movement based on Manhattan distance calculations.
+- Farmer movement based on Manhattan distance calculations.
+- Rooster movement is randomly.
 - Capture logic ensures the game ends within a maximum of 14 moves.
 - Visualization of the game board and moves.
 
@@ -20,6 +21,6 @@ This project implements the classic "Rooster Chase" game using an 8×8 chessboar
 
 <table>
   <tr>
-    <td><img src="RC.gif" alt="Animation 1" width="200"></td>
+    <td><img src="RC.gif" alt="Animation 1" width="500"></td>
   </tr>
 </table>
