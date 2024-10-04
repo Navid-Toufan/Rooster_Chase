@@ -24,3 +24,9 @@ This project implements the classic "Rooster Chase" game using an 8×8 chessboar
     <td><img src="RC.gif" alt="Animation 1" width="500"></td>
   </tr>
 </table>
+
+## This project was completed in 2017 and uploaded to GitHub in 2024 for archival purposes.
+
+## Timeline
+- **Completed:** 2017
+- **Uploaded:** 2024
