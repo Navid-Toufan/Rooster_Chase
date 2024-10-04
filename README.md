@@ -20,6 +20,6 @@ This project implements the classic "Rooster Chase" game using an 8×8 chessboar
 
 <table>
   <tr>
-    <td><img src="" alt="Animation 1" width="200"></td>
+    <td><img src="RC.gif" alt="Animation 1" width="200"></td>
   </tr>
 </table>
